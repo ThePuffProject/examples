@@ -1,0 +1,6 @@
+github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
+github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/nikumar1206/puff v0.0.0-20241111183627-cf7fc237db0f h1:fPiT8A95DGYXOoT1fSf3k9d7D1y6/LpBhDwKXyDTETA=
+github.com/nikumar1206/puff v0.0.0-20241111183627-cf7fc237db0f/go.mod h1:IGKW9veaL+cGX4dIS0rq1HcfQYHjqeldjbrkBskswHM=
+nhooyr.io/websocket v1.8.17 h1:KEVeLJkUywCKVsnLIDlD/5gtayKp8VoCkksHCGGfT9Y=
+nhooyr.io/websocket v1.8.17/go.mod h1:rN9OFWIUwuxg4fR5tELlYC04bXYowCP9GX47ivo2l+c=
