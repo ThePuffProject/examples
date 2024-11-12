@@ -1,6 +1,6 @@
 package routes
 
-import "github.com/nikumar1206/puff"
+import "github.com/ThePuffProject/puff"
 
 func WaterRouter() *puff.Router {
 	r := puff.NewRouter("Water", "/water")

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/nikumar1206/puff"
+	"github.com/ThePuffProject/puff"
 )
 
 type PastaHomeInput struct {
