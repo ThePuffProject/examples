@@ -6,8 +6,8 @@ import (
 	"time"
 
 	"github.com/ThePuffProject/examples/restaurant_app/routes"
-	"github.com/nikumar1206/puff"
-	"github.com/nikumar1206/puff/middleware"
+	"github.com/ThePuffProject/puff"
+	"github.com/ThePuffProject/puff/middleware"
 )
 
 type User struct {

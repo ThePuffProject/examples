@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"github.com/nikumar1206/puff"
+	"github.com/ThePuffProject/puff"
 )
 
 type EchoInput struct {

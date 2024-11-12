@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/nikumar1206/puff"
+	"github.com/ThePuffProject/puff"
 )
 
 type PizzaResponse struct {
